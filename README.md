@@ -1,5 +1,5 @@
-MediaElement.js allows you to offer a consistent experience with audio and video across browsers. 
+HTML lets us add audio and video elements with relative ease, and browsers give us pretty good players right out of the box. 
 
-You can also customize the players to your heart's content. 
+Why, then would we want to install a separate library to help us manage media playback? 
 
-Let's learn how to use MediaElement.js to share audio and video with your users.
+Find out here!
